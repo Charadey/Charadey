@@ -34,4 +34,4 @@ WINAPI _tWinMain(HINSTANCE, HINSTANCE, LPTSTR, int)
 }
 //---------------------------------------------------------------------------
 //Privet
-//hi
+
